@@ -19,12 +19,12 @@ return a+b;
 }
 let sum = add(4, 4);
 console.log(sum);*/
-
+/*
 
 function greet(name = 'Guest') {
     console.log('Hello, ' + name + '!');
 }
 
-greet();         
-greet("Dan");  
-greet("Alicia");
+greet();          
+greet("Alicia"); */
+
